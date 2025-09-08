@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import Link from "next/link";
+ import Link from "next/link";
 import Image from "next/image";
 import Logo from "../../assets/Images/logo.png"; // adjust path
 import "../../Styles/Header.css";
